@@ -6,3 +6,5 @@
 1.1 Personal Expense Tracker
 
 1.2 Task Manager with User Authentication
+
+1.3 IceCream Sale Prediction
